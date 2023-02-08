@@ -9,3 +9,5 @@ making changes in the main u need to pull the changes
 adding commit3 in the branch 
 
 made changes in the main remote repo u need to pull the latest changes to your local repo
+
+commit4 from local repo at the branch feature/smart
