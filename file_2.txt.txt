@@ -13,3 +13,5 @@ made changes in the main remote repo u need to pull the latest changes to your l
 commit4 from local repo at the branch feature/smart
 
 do changes in remote main branch and then pull it to local repo keep sync with other branches
+
+commit5 from local repo to remote repo
